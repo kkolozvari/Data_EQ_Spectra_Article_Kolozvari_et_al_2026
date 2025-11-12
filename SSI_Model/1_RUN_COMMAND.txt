@@ -1,0 +1,1 @@
+C:\OpenSees-Solvers\openseesmp.bat .\1_runIDA_PARALLEL_STKO_MP_SSI.tcl 16
